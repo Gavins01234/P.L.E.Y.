@@ -3,3 +3,8 @@
   padding: 0;
   font-family:sans-serif;
 }
+div {
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
